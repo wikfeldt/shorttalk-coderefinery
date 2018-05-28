@@ -20,7 +20,7 @@ layout: false
 - Started in September 2016 as project within the Nordic e-Infrastructure Collaboration (NeIC) 
 - Additional funding from national HPC organizations in the Nordics
 - Second phase will start autumn 2018
--  Aim: reach sustainability after phase 2 concludes in 2021
+- Aim: reach sustainability after phase 2 concludes in 2021
 
 ## What we do
 
@@ -29,7 +29,7 @@ layout: false
   - 10 regular 3-day workshops, around 250 participants so far
   - 5 other types of events (1/2 - 1 day tutorials, discussion meetings)
 
-- Code repository hosting for research software coupled with a continuous integration service for automated testing: 
+- Code repository hosting for Nordic research software coupled with a CI service for automated testing: 
   [source.coderefinery.org](https://source.coderefinery.org/)
 
 
@@ -48,23 +48,40 @@ layout: false
 
 # What we teach
 
-All workshops include:
-- Introductory and advanced Git
-- Automated testing (Travis CI)
-- Code coverage analysis (Coveralls)
-- Modular code development
-- Jupyter Notebooks
-- Tools for reproducible research (workflow management tools, containers)
-- Documentation (Sphinx, Read the Docs, GitHub Pages)
-- Software licensing
+*All* workshops include:
+<div style="float: left; width: 50%;">
+<ul>
+<li> Git
+<li> Automated testing 
+<li> Code coverage analysis
+<li> Modular code development
+</ul>
+</div>
+<div style="float: right; width: 50%;">
+<ul>
+<li> Jupyter Notebooks
+<li> Tools for reproducible research
+<li> Documentation
+<li> Software licensing
+</ul>
+</div>
 
+
+<div style="float: left; width: 50%;">
 Some workshops include:
-- CMake
-- Integrated development environments
-
-Further differences to Software Carpentry workshops:
-- We do not teach a programming language
-- Most participants already write scientific software
+<ul>
+<li> CMake</li>
+<li> Integrated development environments</li>
+</ul>
+Also different from Software Carpentry:
+<ul>
+<li> We do not teach a programming language</li>
+<li> Most participants already write scientific software</li>
+</ul>
+</div>
+<div style="float: right; width: 50%;">
+<img src="img/tools_logos_2.png" style="width: 70%;"/>
+</div>
 
 ---
 
@@ -72,17 +89,28 @@ Further differences to Software Carpentry workshops:
 
 > Results from 3-6 month post-workshop survey
 
-<img src="img/impact.png" style="width: 100%;"/>
-
+<img src="img/tools_heatmap.png" style="width: 47%;"/>
+<img src="img/yes_no_questions.png" style="width: 45%;"/>
 
 ---
 
-## What we have learned
+# What we have learned
 
-- There is a **huge** demand for intermediate/advanced training in scientific software development
-- 90% of learners want *more* exercises, but there's a difficult tradeoff with the amount of material that can be covered
+- There is a **huge** demand for intermediate/advanced training in scientific software development  
 
-## Future directions
+- 90% of learners want *more* exercises (but difficult tradeoff with the amount of material that can be covered)  
+
+- Learners like collaborative exercises (pairs or groups)  
+
+- Important to give learners time to experiment instead of rushing
+
+- Post-workshop survey works well and guides improvements of lessons
+
+- Motivated local contact person, and quality of lecture room, important for workshop success  
+
+---
+
+# Future directions
 
 - Reach scale and sustainability
  - involve volunteer instructors
@@ -94,6 +122,10 @@ Further differences to Software Carpentry workshops:
  - require Carpentry instructor training for new instructors
  - contribute lessons to Software Carpentry
 
+## **Invitation**  
+CodeRefinery lesson material is open source (CC BY-SA 4.0) and can be used/improved by anyone
+  - [coderefinery.org/lessons/](http://coderefinery.org/lessons/)
+  - All feedback highly welcome!
 ---
 
 # Acknowledgments
@@ -126,4 +158,11 @@ Further differences to Software Carpentry workshops:
 <div style="float: right; width: 50%;">
 <br>
 <img src="img/NEIC_logo_screen_black.png" style="width: 80%;"/>
+</div>
+
+
+<div style="float: left; width: 100%;">
+<p>
+This presentation was created in cicero (http://cicero.xyz/)
+</p>
 </div>
