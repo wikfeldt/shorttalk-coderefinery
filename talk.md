@@ -88,11 +88,12 @@ Also different from Software Carpentry:
 
 # Impact
 
-> Results from 3-6 month post-workshop survey
+- Results from 3-6 month post-workshop survey
 
 <img src="img/tools_heatmap.png" style="width: 47%;"/>
 <img src="img/yes_no_questions.png" style="width: 45%;"/>
 
+- Encouraging results!
 ---
 
 # What we have learned
@@ -124,7 +125,7 @@ Also different from Software Carpentry:
 - Closer collaboration with the Carpentries
  - coordinate workshops - define training levels
  - leave Git introduction to Software Carpentry
- - share instructors (and require Carpentry instructor training!)
+ - share instructors 
  - contribute lessons to Software Carpentry
 
 ## **Invitation**  
