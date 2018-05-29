@@ -18,9 +18,9 @@ layout: false
 ## About the project
 
 - Started in September 2016 as project within the Nordic e-Infrastructure Collaboration (NeIC) 
-- Additional funding from national HPC organizations in the Nordics
 - Second phase will start autumn 2018
-- Aim: reach sustainability after phase 2 concludes in 2021
+
+<img src="img/hpc_orgs.png" style="width: 100%;"/>
 
 ## What we do
 
@@ -115,6 +115,7 @@ Also different from Software Carpentry:
 - Reach scale and sustainability
  - involve volunteer instructors
  - write best practice guides and demonstrate them in short screencasts
+ - aim: reach sustainability after phase 2 concludes in 2021
 
 - Closer collaboration with the Carpentries
  - coordinate workshops
@@ -163,6 +164,8 @@ CodeRefinery lesson material is open source (CC BY-SA 4.0) and can be used/impro
 
 <div style="float: left; width: 100%;">
 <p>
-This presentation was created in cicero (http://cicero.xyz/)
+<ul>
+<li>This presentation was created in cicero (http://cicero.xyz/) </li>
+<li>Slides on https://github.com/wikfeldt/shorttalk-coderefinery </li> 
 </p>
 </div>
