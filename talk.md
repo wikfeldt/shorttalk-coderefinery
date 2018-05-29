@@ -17,7 +17,8 @@ layout: false
 
 ## About the project
 
-- Started in September 2016 as project within the Nordic e-Infrastructure Collaboration (NeIC) 
+- Started in September 2016 as project within **NeIC**
+- 2.5 FTEs spread around the Nordics
 - Second phase will start autumn 2018
 
 <img src="img/hpc_orgs.png" style="width: 100%;"/>
@@ -26,8 +27,8 @@ layout: false
 
 - Develop lesson material on best practices and tools for sustainable scientific software development
 - Organize and deliver workshops around the Nordics
-  - 10 regular 3-day workshops, around 250 participants so far
-  - 5 other types of events (1/2 - 1 day tutorials, discussion meetings)
+  - 11 regular 3-day workshops, over 250 participants 
+  - 5 other types of events (tutorials, discussion meetings)
 
 - Code repository hosting for Nordic research software coupled with a CI service for automated testing: 
   [source.coderefinery.org](https://source.coderefinery.org/)
@@ -40,7 +41,7 @@ layout: false
 - Interactive, type-along lessons interspersed with exercises
 - Jekyll structure and browsing layout derived from work by SWC 
 - Red and green stickies, feedback at end of each day
-- Under development: detailed instructor guidelines and instructor training
+- Under development: detailed instructor guidelines 
 
 > <img src="img/DSC_0634.JPG" style="width: 100%;"/>
 
@@ -60,7 +61,7 @@ layout: false
 <div style="float: right; width: 50%;">
 <ul>
 <li> Jupyter Notebooks
-<li> Tools for reproducible research
+<li> Tools for reproducible workflows
 <li> Documentation
 <li> Software licensing
 </ul>
@@ -75,7 +76,7 @@ Some workshops include:
 </ul>
 Also different from Software Carpentry:
 <ul>
-<li> We do not teach a programming language</li>
+<li> We do not teach languages</li>
 <li> Most participants already write scientific software</li>
 </ul>
 </div>
@@ -108,6 +109,9 @@ Also different from Software Carpentry:
 
 - Motivated local contact person, and quality of lecture room, important for workshop success  
 
+.center[
+<img src="img/lessons-learned.jpg" style="width: 50%;"/>
+]
 ---
 
 # Future directions
@@ -118,15 +122,16 @@ Also different from Software Carpentry:
  - aim: reach sustainability after phase 2 concludes in 2021
 
 - Closer collaboration with the Carpentries
- - coordinate workshops
- - share instructors
- - require Carpentry instructor training for new instructors
+ - coordinate workshops - define training levels
+ - leave Git introduction to Software Carpentry
+ - share instructors (and require Carpentry instructor training!)
  - contribute lessons to Software Carpentry
 
 ## **Invitation**  
 CodeRefinery lesson material is open source (CC BY-SA 4.0) and can be used/improved by anyone
   - [coderefinery.org/lessons/](http://coderefinery.org/lessons/)
   - All feedback highly welcome!
+  - @coderefine
 ---
 
 # Acknowledgments
