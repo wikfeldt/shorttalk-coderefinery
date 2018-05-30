@@ -131,7 +131,7 @@ Also different from Software Carpentry:
 CodeRefinery lesson material is open source (CC BY-SA 4.0) and can be used/improved by anyone
   - [coderefinery.org/lessons/](http://coderefinery.org/lessons/)
   - All feedback highly welcome!
-  - @coderefine, support@coderefinery.org
+  - github.com/coderefinery, @coderefine, support@coderefinery.org
 ---
 
 # Acknowledgments
