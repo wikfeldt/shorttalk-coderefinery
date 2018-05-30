@@ -124,7 +124,6 @@ Also different from Software Carpentry:
 
 - Closer collaboration with the Carpentries
  - coordinate workshops - define training levels
- - leave Git introduction to Software Carpentry
  - share instructors 
  - contribute lessons to Software Carpentry
 
@@ -132,7 +131,7 @@ Also different from Software Carpentry:
 CodeRefinery lesson material is open source (CC BY-SA 4.0) and can be used/improved by anyone
   - [coderefinery.org/lessons/](http://coderefinery.org/lessons/)
   - All feedback highly welcome!
-  - @coderefine
+  - @coderefine, support@coderefinery.org
 ---
 
 # Acknowledgments
