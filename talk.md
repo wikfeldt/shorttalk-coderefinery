@@ -158,16 +158,19 @@ CodeRefinery lesson material is open source (CC BY-SA 4.0) and can be used/impro
 </ul>
 </div>
 
-<div style="float: left; width: 50%;">
-<img src="img/pdc_logo.png" style="width: 50%;"/>
+<div style="float: left; width: 25%;">
+<img src="img/pdc_logo.png" style="width: 70%;"/>
 </div>
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 40%;">
+<img src="img/Logo_COLOR_3D-01.png" style="width: 170%;"/>
+</div>
+<div style="float: right; width: 30%;">
 <br>
-<img src="img/NEIC_logo_screen_black.png" style="width: 80%;"/>
+<img src="img/NEIC_logo_screen_black.png" style="width: 100%;"/>
 </div>
 
 
-<div style="float: left; width: 100%;">
+<div style="float: left; width: 60%;">
 <p>
 <ul>
 <li>This presentation was created in cicero (http://cicero.xyz/) </li>
