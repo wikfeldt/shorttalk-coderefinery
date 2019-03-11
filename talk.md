@@ -141,7 +141,6 @@ CodeRefinery lesson material is open source (CC BY-SA 4.0) and can be used/impro
   <img src="img/radovan_bast.jpg" style="width: 30%;"/>
   <img src="img/bjoern_lindi.jpg" style="width: 30%;"/>
   <img src="img/harsha_vathsavayi.jpg" style="width: 30%;"/>
-  <img src="img/nikolai_denissov.png" style="width: 30%;"/>
   <img src="img/sabry_razick.jpg" style="width: 25%;"/>
   <img src="img/jyry_suvilehto.jpg" style="width: 30%;"/>
 </ul>
@@ -151,7 +150,6 @@ CodeRefinery lesson material is open source (CC BY-SA 4.0) and can be used/impro
 <li> Radovan Bast, Tromsø, Norway </li>
 <li> Bjørn Lindi, Trondheim, Norway  </li>
 <li> Sri Harsha Vathsavayi, CSC IT center for science, Finland</li>
-<li> Nikolai Denissov, CSC IT center for science, Finland</li>
 <li> Sabry Razick, UiO University of Oslo, Norway </li>
 <li> Jyry Suvilehto, CSC IT center for science, Finland </li>
 
